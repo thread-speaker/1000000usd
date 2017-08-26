@@ -1,0 +1,19 @@
+{
+  "name": "1000000usd",
+  "version": "1.0.0",
+  "description": "If you npm install it, you own it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thread-speaker/1000000usd.git"
+  },
+  "author": "thread_speaker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thread-speaker/1000000usd/issues"
+  },
+  "homepage": "https://github.com/thread-speaker/1000000usd#readme"
+}
